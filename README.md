@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate IT student in cybersecurity <br>🌱 I’m currently learning Kali linux hacking tools, python oop, and secured cloud services deployment. <br>⚡ Fun fact I once did a chmod -R 740 on my root directory 😭
+A passionate IT student in cybersecurity <br>🌱 I’m currently learning Kali linux hacking tools, python oop, and secured cloud services deployment. <br>⚡ Fun fact I once did a chmod -R 740 on my root directory 😭 (I was able to fix it, thankfully) 
 
 
 ## 🌐 Socials:

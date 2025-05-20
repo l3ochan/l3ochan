@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate IT student in cybersecurity <br>🌱 I’m currently learning Kali linux hacking tools, python oop, and secured cloud services deployment. <br>⚡ Fun fact I once did a chmod -R 740 /* as root user 😭 (I was able to fix it, thankfully) 
+A passionate IT student in cybersecurity <br>🌱 I’m currently learning Ansible automation and discovering zero trust services (kasm workspaces). <br>⚡ Fun fact I once did a chmod -R 740 /* as root user 😭 (I was able to fix it, thankfully) 
 
 
 ## 🌐 Socials:
